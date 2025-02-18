@@ -1,5 +1,18 @@
 ---
 title: "Zgagalis.github.io"
+author: Zoe Gagalis
+format: html
+navbar:
+  title: "Zoe Gagalis"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      href: projects.html
 ---
 
 This is a Quarto website.
