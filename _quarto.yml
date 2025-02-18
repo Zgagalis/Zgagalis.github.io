@@ -1,27 +1,28 @@
 project:
   type: website
   output-dir: docs
+  
 
 website:
-  title: "Zgagalis.github.io"
-  image: zoe.jpeg
-navbar:
   title: "Zoe Gagalis"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Resume"
-      href: resume.html
-    - text: "Projects"
-      href: projects.html
+  navbar:
+   left:
+    - href: index.qmd
+      text: Home
+    - Resume.qmd
+    - Projects.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme: lux
+    mainfont: arial
+    fontcolor: "#000000"
+    linkcolor: "#1BA749"
     css: styles.css
+    monofont: courier new
     toc: true
+    toc-location: right
 
 editor: visual
 

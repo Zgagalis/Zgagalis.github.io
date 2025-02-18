@@ -7,10 +7,45 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Zgagalis.github.io",
+    "title": "Zoe Gagalis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nimage: zoe.jpeg"
+    "text": "Thank you for visiting my website! My name is Zoe, I am a current senior at Colorado State University, studying ecosystem science and sustainability. I will be graduating in May 2025 and I am looking for work in corporate sustainability and conservation. Please browse my recent projects as well as my resume, Linkedin, and contact information."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Life Cycle Assessment for Sustainability analysis on e-readers vs. books (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\n\n\nAnalysis on electric vehicles as a climate solution (Fall 2024)\n\n\n\nIt appears you don’t have a PDF plugin for this browser.\n\n\nNo worries… you can click here to download the PDF file."
+  },
+  {
+    "objectID": "Projects.html#life-cycle-assessment-for-sustainability-analysis-on-e-readers-vs.-books-fall-2024",
+    "href": "Projects.html#life-cycle-assessment-for-sustainability-analysis-on-e-readers-vs.-books-fall-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\\n\n\n\n&lt;object data=“media/ESS_542_Final.pdf” type=“application/pdf” width=“100%” height=“100%” style=“min-height:100vh;”&gt;\n  &lt;p&gt;It appears you don’t have a PDF plugin for this browser.\n  &lt;a href=“media/ESS_542_Final.pdf” download&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;\n&lt;/object&gt;"
+  },
+  {
+    "objectID": "Resume.html#resume",
+    "href": "Resume.html#resume",
+    "title": "Resume",
+    "section": "",
+    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\"
+  },
+  {
+    "objectID": "Projects.html#analysis-on-electric-vehicles-as-a-climate-solution",
+    "href": "Projects.html#analysis-on-electric-vehicles-as-a-climate-solution",
+    "title": "Projects",
+    "section": "",
+    "text": "&lt;object data=“media/ESS_542_Final.pdf” type=“application/pdf” width=“100%” height=“100%” style=“min-height:100vh;”&gt;\n  &lt;p&gt;It appears you don’t have a PDF plugin for this browser.\n  &lt;a href=“media/ESS_542_Final.pdf” download&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;\n&lt;/object&gt;"
   }
 ]

@@ -1,27 +1,17 @@
 ---
-title: "Zgagalis.github.io"
-image: zoe.jpeg
-author: Zoe Gagalis
-format: html
-navbar:
-  title: "Zoe Gagalis"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Resume"
-      href: resume.html
-    - text: "Projects"
-      href: projects.html
+title: "Zoe Gagalis"
+image: media/zoe.jpeg
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+    - text: linkedin
+      href: https://www.linkedin.com/in/zoe-gagalis/
+    - text: Email
+      href: mailto:zgagalis422@gmail.com
+    - text: Github
+      href: https://github.com/Zgagalis/
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-image: zoe.jpeg
+Thank you for visiting my website! My name is Zoe, I am a current senior at Colorado State University, studying ecosystem science and sustainability. I will be graduating in May 2025 and I am looking for work in corporate sustainability and conservation. Please browse my recent projects as well as my resume, Linkedin, and contact information.
