@@ -1,5 +1,6 @@
 ---
 title: "Zgagalis.github.io"
+image: zoe.jpeg
 author: Zoe Gagalis
 format: html
 navbar:
@@ -22,3 +23,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+image: zoe.jpeg
