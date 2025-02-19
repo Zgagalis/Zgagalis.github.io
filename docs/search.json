@@ -4,14 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website is meant to archive academic and career achievements as a way to help future employers understand my offerings as a multifaceted individual.\nHome Page"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Life cycle assessment sustainability analysis on e-readers vs. books (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\nIn this project, I learned how to research and conduct a cradle-to-gate life cycle analysis including uncertainty analysis, using openLCA software.\n\n\nAnalysis on electric vehicles as a climate solution (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\nThis was a research project aimed at recommendations for climate change mitigation involving transportation.\nHome Page"
   },
   {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\"
+    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\\nHome Page\n\n\n\n \n\n \n\n  \n    \n\n© 2025 Zoe Gagalis. All rights reserved\n\n   \n    \n       \n    \n    \nThis website is built with rstudio and github"
   },
   {
     "objectID": "index.html",
@@ -19,33 +26,5 @@
     "title": "Zoe Gagalis",
     "section": "",
     "text": "Thank you for visiting my website! My name is Zoe, I am a current senior at Colorado State University, studying ecosystem science and sustainability. I will be graduating in May 2025 and I am looking for work in corporate sustainability and conservation. Please browse my recent projects as well as my resume, Linkedin, and contact information."
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Life Cycle Assessment for Sustainability analysis on e-readers vs. books (Fall 2024)\n\n  It appears you don't have a PDF plugin for this browser.\n  No worries... you can click here to download the PDF file.\n\n\n\nAnalysis on electric vehicles as a climate solution (Fall 2024)\n\n\n\nIt appears you don’t have a PDF plugin for this browser.\n\n\nNo worries… you can click here to download the PDF file."
-  },
-  {
-    "objectID": "Projects.html#life-cycle-assessment-for-sustainability-analysis-on-e-readers-vs.-books-fall-2024",
-    "href": "Projects.html#life-cycle-assessment-for-sustainability-analysis-on-e-readers-vs.-books-fall-2024",
-    "title": "Projects",
-    "section": "",
-    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\\n\n\n\n&lt;object data=“media/ESS_542_Final.pdf” type=“application/pdf” width=“100%” height=“100%” style=“min-height:100vh;”&gt;\n  &lt;p&gt;It appears you don’t have a PDF plugin for this browser.\n  &lt;a href=“media/ESS_542_Final.pdf” download&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;\n&lt;/object&gt;"
-  },
-  {
-    "objectID": "Resume.html#resume",
-    "href": "Resume.html#resume",
-    "title": "Resume",
-    "section": "",
-    "text": "\\It appears you don't have a PDF plugin for this browser.\n\n  \\click here to download the PDF file.\\\\\n\n\\"
-  },
-  {
-    "objectID": "Projects.html#analysis-on-electric-vehicles-as-a-climate-solution",
-    "href": "Projects.html#analysis-on-electric-vehicles-as-a-climate-solution",
-    "title": "Projects",
-    "section": "",
-    "text": "&lt;object data=“media/ESS_542_Final.pdf” type=“application/pdf” width=“100%” height=“100%” style=“min-height:100vh;”&gt;\n  &lt;p&gt;It appears you don’t have a PDF plugin for this browser.\n  &lt;a href=“media/ESS_542_Final.pdf” download&gt;click here to download the PDF file.&lt;/a&gt;&lt;/p&gt;\n&lt;/object&gt;"
   }
 ]

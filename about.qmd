@@ -1,9 +1,8 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+This website is meant to archive academic and career achievements as a way to help future employers understand my offerings as a multifaceted individual.
 
-```{r}
-1 + 1
-```
+[Home Page](https://zgagalis.github.io/)

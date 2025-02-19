@@ -1,10 +1,10 @@
 ---
 title: "Zoe Gagalis"
-image: media/zoe.jpeg
+image: media/zoe2.jpg
 about: 
   template: broadside
   image-shape: rectangle
-  image-width: 15em
+  image-width: 20em
   links: 
     - text: linkedin
       href: https://www.linkedin.com/in/zoe-gagalis/
